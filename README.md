@@ -19,12 +19,12 @@ ________________________________________________________________________________
 
      🔒 [Atividade Online 2]: Instalar e configurar tanto o banco de dados quanto o gerenciador.
 
-     🔓 [Encontro Remoto 2]: Criação das tabelas;
+     🔒 [Encontro Remoto 2]: Criação das tabelas;
 
-     🔓 [Atividade Online 3]: Utilizar linguagem de manipulação dos dados para inserir os dados correspondentes do jogo de RPG online;
+           🔒 [Atividade Online 3]: Utilizar linguagem de manipulação dos dados para inserir os dados correspondentes do jogo de RPG online;
 
-     🔓 [Atividade Online 4]: Aplicar regras de segurança e níveis hierárquicos.   
-
+           🔒 [Atividade Online 4]: Aplicar regras de segurança e níveis hierárquicos.   
+ 
 
 ______________________________________________________________________________________________________________________
 
